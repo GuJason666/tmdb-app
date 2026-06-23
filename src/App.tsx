@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Home from "./pages/Home"
-import MovieDetail from "./pages/MovieDetail"
+import MovieDetail from './pages/MovieDetail.tsx'
 import Favorites from "./pages/Favorites"
 
 export default function App() {
